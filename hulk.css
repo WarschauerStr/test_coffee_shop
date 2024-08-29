@@ -1,0 +1,37 @@
+body {
+    background-image: url('flag.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1 {
+    color:rgb(0, 0, 0);
+    font-size: 150px;
+    font-family: monospace;
+    line-height: 0.01;
+}
+
+h2 {
+    color:rgb(0, 0, 0);
+    font-size: 80px;
+    font-family: monospace;
+    line-height: 0.1;
+}
+
+p {
+    font-family: 'Gill Sans';
+    font-size: 25px;
+    line-height: 1.6;
+    text-align: justify;
+    color: #ffffff;
+}
+
+ul {
+    font-family: monospace;
+    font-size: 15px;
+    line-height: 1.6;
+    text-align: bold;
+    color: #ff0000;
+    text-align: left;
+}

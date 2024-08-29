@@ -1,0 +1,18 @@
+h1 {
+    color:navy;
+    font-size: 300%;
+}
+
+body {
+    background-color:#b1acac;
+}
+
+h3 {
+    color:rgb(128, 0, 122);
+    font-size: 300%;
+}
+
+.bluegroup{
+    color: red;
+    text-align: center;
+}
